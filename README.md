@@ -1,8 +1,8 @@
 # SQL_challenges
 Conducting Exploratory Data Analysis through SQL for 3 different datasets: 
-1) British Airway Dataset;   postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA104.1
-2) Meta Revenue Dataset;     postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA103.2
-3) Nike E-Commerce Dataset.  postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA103.3
+1) British Airway Dataset;   postgres://ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA104.1
+2) Meta Revenue Dataset;     postgres://ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA103.2
+3) Nike E-Commerce Dataset.  postgres://ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA103.3
 
 British Airway Dataset Overview:
    <img width="790" alt="datasets_overview_1" src="https://github.com/tiantiangao597/SQL_challenges/assets/50714997/7bb87589-a1f6-4024-b720-ec285350fa35">
